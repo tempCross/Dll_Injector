@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\soksound\documents\visual studio 2017\projects\injector_application\injector_application\main.cpp(4): warning C4005: 'MAX_PATH': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\shared\minwindef.h(60): note: see previous definition of 'MAX_PATH'
+c:\users\soksound\documents\visual studio 2017\projects\injector_application\injector_application\main.cpp(58): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(1019): note: see declaration of 'wcstombs'
+c:\users\soksound\documents\visual studio 2017\projects\injector_application\injector_application\main.cpp(100): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  Injector.cpp
+  HelperClass.cpp
+  Generating Code...
+c:\users\soksound\documents\visual studio 2017\projects\injector_application\injector_application\helperclass.cpp(25): warning C4172: returning address of local variable or temporary: path
+HelperClass.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Injector_Application.vcxproj -> C:\Users\SokSound\Documents\Visual Studio 2017\Projects\Injector_Application\Debug\Injector_Application.exe
+  Injector_Application.vcxproj -> C:\Users\SokSound\Documents\Visual Studio 2017\Projects\Injector_Application\Debug\Injector_Application.pdb (Partial PDB)
